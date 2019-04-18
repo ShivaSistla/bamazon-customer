@@ -1,3 +1,3 @@
 # bamazon-customer
 
-![Results]!(results.png)
+![Results](results.png)
